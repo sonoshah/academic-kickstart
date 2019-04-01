@@ -1,0 +1,17 @@
+# Font style metadata
+name = "default"
+
+# Optional Google font URL
+google_fonts = "Roboto+Condensed:300,400,500|Fira+Mono"
+
+# Font families
+heading_font = "Roboto Condensed"
+body_font = "Roboto Condensed"
+nav_font = "Roboto Condensed Light"
+mono_font = "Fira Mono"
+
+# Font size
+font_size = "18"
+font_size_small = "14"
+
+

@@ -1,0 +1,44 @@
+---
+title: 'Census 2020: Challenges for the IE'
+author: "Sono Shah"
+date: "2018-12-17T00:00:00"
+draft: false
+output: html_document
+tags: ['Census']
+---
+
+
+
+<p>As Census 2020 approaches, I wanted to take a closer look at the unique set of challenges that the Inland Empire faces in terms of achieving an acurate count. All the data comes from the Census planning database. In preparation for the 2020 Census, the planning database includes a census measure called <code>Low Response Score</code> or <code>LRS</code>. The <code>LRS</code> can be directly interpreted as the “predicted mail non-response rate”.<a href="#fn1" class="footnote-ref" id="fnref1"><sup>1</sup></a></p>
+<p>Some caveats here:</p>
+<ol style="list-style-type: decimal">
+<li>You are not supposed to aggregate LRS to calculate county-level estimates. See below</li>
+</ol>
+<blockquote>
+<p>The Low Response Score should NOT be aggregated (i.e., summed or averaged) to different
+geographies than it is calculated. The Low Response Score is based on a linear regression model
+that utilizes multiple characteristics of a given census tract or block group to predict mail nonreturn rates for that particular geography. Even though census tracts nest within a county, you
+should not sum or average the Low Response Score across all census tracts in a county to arrive
+at a county-level Low Response Score. Separate models would need to be developed for other
+levels of geography (e.g., county, state).<a href="#fn2" class="footnote-ref" id="fnref2"><sup>2</sup></a></p>
+</blockquote>
+<ol start="2" style="list-style-type: decimal">
+<li><code>LRS</code> only predicts non-reponse for MAIL</li>
+<li>Subsequently, the current version of <code>LRS</code> does not account for broadband access</li>
+</ol>
+<p><img src="/post/census2020-ie-1_files/figure-html/unnamed-chunk-1-1.png" width="768" /></p>
+<div id="estimated-non-response-by-ie-subregion" class="section level1">
+<h1>Estimated non-response by IE subregion</h1>
+<p>Here’s a look at the distribution of tract-level non-reponse rates by tract-population. Some subregions have tracts with small populations but large non-reponse rates and others have large tract-populations with relatively small non-reponse rates.</p>
+<p><img src="/post/census2020-ie-1_files/figure-html/unnamed-chunk-2-1.png" width="768" /></p>
+<div id="total-estimated-non-response" class="section level2">
+<h2>Total estimated non-response</h2>
+</div>
+</div>
+<div class="footnotes">
+<hr />
+<ol>
+<li id="fn1"><p>See <a href="https://www.census.gov/research/data/planning_database/2018/docs/erdman_bates_2017.pdf" class="uri">https://www.census.gov/research/data/planning_database/2018/docs/erdman_bates_2017.pdf</a><a href="#fnref1" class="footnote-back">↩</a></p></li>
+<li id="fn2"><p>[See doc here](<a href="https://www2.census.gov/geo/pdfs/maps-data/maps/roam/ROAM_FAQ.pdf" class="uri">https://www2.census.gov/geo/pdfs/maps-data/maps/roam/ROAM_FAQ.pdf</a><a href="#fnref2" class="footnote-back">↩</a></p></li>
+</ol>
+</div>

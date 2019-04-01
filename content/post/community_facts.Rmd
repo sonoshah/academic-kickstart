@@ -1,0 +1,14 @@
+---
+title: "AAPI Data Community Facts"
+author: "Sono Shah"
+date: "2018-12-01T00:00:00"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+As part of my work at AAPI Data, I also create tools to increase the accessibility of demographic data, my most recent project was to create a Community Factsheet tool using shiny, check it out [here](http://facts.aapidata.com/). ![community-facts](/img/aapidata_facts.gif)
+
+Community facts is a simple Shiny App that displays demographic data from the ACS.
