@@ -12,7 +12,7 @@ type = "docs"  # Do not modify.
 linktitle = "Labs & Assignments"
 [menu.tutorial]
   parent = "Presidental Elections"
-  weight = 1
+  weight = 4
 +++
 
 

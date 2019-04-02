@@ -20,3 +20,13 @@ Welcome to my course page for Presidential Elections. One of my major goals for 
 I used this class as an opportunity to experiment with different Rmarkdown formats, so you'll see a variety of file types, themes, and styling.
 
 Check out the links to the left to look at the different tutorials, labs, and assignments.
+
+## How to use some of the packages in the Tidyverse:
+  
+  - [Part I]({{< ref "tutorial/tidyverse-1.md" >}})
+  
+  - [Part II]({{< ref "tutorial/tidyverse-1.md" >}})
+
+## Labs & Assignments
+  - [Here]({{< ref "tutorial/posc149-labs.md" >}})
+

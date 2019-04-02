@@ -14,5 +14,6 @@ type = "docs"  # Do not modify.
   weight = 1
 +++
 
-Here's some links to materials/labs/posts that are related to classes I've taught.
+Here's some links to materials/labs/posts that are related to classes I've taught. More coming soon. 
 
+- [Presidential Elections]({{< ref "tutorial/posc149intro.md" >}})
