@@ -23,10 +23,3 @@ Check out the links to the left to look at the different tutorials, labs, and as
 
 ## How to use some of the packages in the Tidyverse:
   
-  - [Part I]({{< ref "tutorial/tidyverse-1.md" >}})
-  
-  - [Part II]({{< ref "tutorial/tidyverse-1.md" >}})
-
-## Labs & Assignments
-  - [Here]({{< ref "tutorial/posc149-labs.md" >}})
-
