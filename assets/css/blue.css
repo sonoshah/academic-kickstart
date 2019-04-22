@@ -6,6 +6,10 @@ h1{
   font-weight: 500;
 }
 
+.footnotes{
+  font-size: 10pt;
+}
+
 .site-footer{
     float: center;
     text-align: center;
