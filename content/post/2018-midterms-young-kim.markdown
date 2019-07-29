@@ -55,13 +55,13 @@ Looking at the same time periods but among contributions from Asian donors, the 
    <td style="text-align:left;"> Asian Contributions </td>
    <td style="text-align:left;"> 24% </td>
    <td style="text-align:left;"> 34% </td>
-   <td style="text-align:left;"> <span style="     color: green;">10%</span> </td>
+   <td style="text-align:left;"> <span style="     color: green !important;">10%</span> </td>
   </tr>
   <tr>
    <td style="text-align:left;"> All Individual Contributions </td>
    <td style="text-align:left;"> 58% </td>
    <td style="text-align:left;"> 54% </td>
-   <td style="text-align:left;"> <span style="     color: red;">-4%</span> </td>
+   <td style="text-align:left;"> <span style="     color: red !important;">-4%</span> </td>
   </tr>
 </tbody>
 </table>
@@ -93,12 +93,12 @@ To get a better understanding of the extent to which Young Kim is responsible fo
   <tr>
    <td style="text-align:left;"> All Asian Contributions </td>
    <td style="text-align:left;"> 34% </td>
-   <td style="text-align:left;"> <span style="     color: green;">10%</span> </td>
+   <td style="text-align:left;"> <span style="     color: green !important;">10%</span> </td>
   </tr>
   <tr>
    <td style="text-align:left;"> All Asian Contributions (w/out Kim) </td>
    <td style="text-align:left;"> 28% </td>
-   <td style="text-align:left;"> <span style="     color: green;">4%</span> </td>
+   <td style="text-align:left;"> <span style="     color: green !important;">4%</span> </td>
   </tr>
 </tbody>
 </table>
