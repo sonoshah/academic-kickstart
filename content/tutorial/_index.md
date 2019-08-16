@@ -17,3 +17,4 @@ type = "docs"  # Do not modify.
 Here's some links to materials/labs/posts that are related to classes I've taught. More coming soon. 
 
 - [Presidential Elections]({{< ref "tutorial/posc149intro.md" >}})
+- [Introduction to TidyCensus](https://sonoshah.github.io/tidycensuspresentation/slides#1)
