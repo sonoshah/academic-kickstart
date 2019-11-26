@@ -74,7 +74,9 @@ user_groups = [""]
 
 +++
 
-My name is Sono Shah. I am a Ph.D. candidate in Political Science at the [University of California Riverside](http://politicalscience.ucr.edu/). I also work as a researcher at [AAPI Data](www.aapidata.com), where we make data on Asian Americans and Pacific Islanders more accessible. This summer I am a graduate intern with the Global Migration & Demography team at Pew Research Center.
+I'm Sono Shah. I am a Ph.D. candidate in Political Science at the [University of California Riverside](http://politicalscience.ucr.edu/). I am currently a Computational Social Scientist with the [Data Labs team at Pew Research Center](https://www.pewresearch.org/topics/data-labs/). 
+
+I also work as a researcher at [AAPI Data](www.aapidata.com), where we make data on Asian Americans and Pacific Islanders more accessible. This summer I am a graduate intern with the Global Migration & Demography team at Pew Research Center.
  
 I’m interested in race & ethnicity, political participation, and civic engagement in the U.S. My dissertation focuses on Asian Americans and Latinos and their campaign contribution behavior where I use administrative records from the FEC as well as survey data from the National Asian American Survey. 
 
