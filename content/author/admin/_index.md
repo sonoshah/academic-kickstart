@@ -48,7 +48,7 @@ user_groups = [""]
 [[social]]
   icon = "envelope"
   icon_pack = "fas"
-  link = "#contact"  # For a direct email link, use "mailto:sono.shah@email.ucr.edu".
+  link = "#contact"  # For a direct email link, use "mailto:sshah@pewresearch.org".
 
 [[social]]
   icon = "twitter"
