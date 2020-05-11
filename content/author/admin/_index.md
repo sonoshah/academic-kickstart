@@ -27,7 +27,7 @@ interests = [
   "Asian American Politics",
   "Campaigns & Elections",
   "Data Visualization",
-  "Methodology"
+  "Computational Social Science"
 ]
 
 # Organizational groups that you belong to (for People widget)
