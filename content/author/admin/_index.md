@@ -23,7 +23,7 @@ email = ""
 
 # List (academic) interests or hobbies
 interests = [
-  "Computational Social Science"
+  "Computational Social Science",
   "Racial & Ethnic Politics",
   "Asian American Politics",
   "Campaigns & Elections",
