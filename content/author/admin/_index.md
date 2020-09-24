@@ -48,7 +48,7 @@ user_groups = [""]
 [[social]]
   icon = "envelope"
   icon_pack = "fas"
-  link = "#contact"  # For a direct email link, use "mailto:sshah@pewresearch.org".
+  link = "mailto:sonoshah@gmail.com"
 
 [[social]]
   icon = "twitter"
@@ -81,6 +81,6 @@ My prior experience includes working as a researcher at [AAPI Data](www.aapidata
 My research interests include the application of computational social science methods to studying the politics of race & ethnicity, representation, and political behavior in the U.S. My academic work includes research on Asian American political attitudes and behavior, the role of elite rhetoric, and civic participation and political engagement.
 
 
-
+My email address is sonoshah [at] gmail.com
 
 
