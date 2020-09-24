@@ -23,11 +23,11 @@ email = ""
 
 # List (academic) interests or hobbies
 interests = [
+  "Computational Social Science"
   "Racial & Ethnic Politics",
   "Asian American Politics",
   "Campaigns & Elections",
-  "Data Visualization",
-  "Computational Social Science"
+  "Data Visualization"
 ]
 
 # Organizational groups that you belong to (for People widget)
@@ -74,10 +74,13 @@ user_groups = [""]
 
 +++
 
-I'm Sono Shah! I am currently a Computational Social Scientist with the [Data Labs team at Pew Research Center](https://www.pewresearch.org/topics/data-labs/). I also recently finished up my Ph.D.in Political Science at the [University of California Riverside](http://politicalscience.ucr.edu/). 
+I'm Sono Shah! I am currently a Computational Social Scientist with the [Data Labs team at Pew Research Center](https://www.pewresearch.org/topics/data-labs/). My work is available [here](https://www.pewresearch.org/staff/sono-shah/). I received a Ph.D. in Political Science from the [University of California Riverside](http://politicalscience.ucr.edu/).
 
-I’m interested in race & ethnicity, political participation, and civic engagement in the U.S. and the application of computational social science methods. My dissertation project focuses on Asian Americans and Latinos and their campaign contribution behavior where I use administrative records from the FEC as well as survey data. 
+My prior experience includes working as a researcher at [AAPI Data](www.aapidata.com), where we make data on Asian Americans and Pacific Islanders more accessible and field public opinion surveys like the [National Asian American Survey](http://naasurvey.com/). In addition, I worked as a researcher for the [Center for Social Innovation at UCR](http://socialinnovation.ucr.edu), where I helped coordinate outreach efforts for the Inland Empire in preparation for Census 2020 and the production of their State of the Inland Empire report series.
 
-My prior experience includes working as a researcher at [AAPI Data](www.aapidata.com), where we make data on Asian Americans and Pacific Islanders more accessible. In addition, I worked as a researcher for the [Center for Social Innovation at UCR](http://socialinnovation.ucr.edu), where I helped coordinate outreach efforts for the Inland Empire in preparation for Census 2020 and the production of their State of the Inland Empire report series.
+My research interests include the application of computational social science methods to studying the politics of race & ethnicity, representation, and political behavior in the U.S. My academic work includes research on Asian American political attitudes and behavior, the role of elite rhetoric, and civic participation and political engagement.
+
+
+
 
 
