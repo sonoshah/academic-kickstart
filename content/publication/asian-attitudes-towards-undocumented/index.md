@@ -6,7 +6,8 @@ publication_types = ["3"]
 abstract = ""
 abstract_short = ""
 featured = true
-publication = "**Under review**"
+publication = "**CUNY Forum**"
 draft= false
+url_pdf = "https://aaari.info/cuny-forum-volume-71/"
 +++
 
